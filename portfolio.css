@@ -1,0 +1,229 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #37404A;
+}
+
+#container {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: white;
+
+}
+
+header {
+    height: 180px;
+    background-image: linear-gradient(#542F9A, #37404A);
+}
+
+footer {
+    height: 100px;
+    background-image: linear-gradient(#37404A,#542F9A);
+}
+
+#copyright {
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+
+#myName {
+    position: relative;
+    top: 30px;
+    left: 645px;
+    font-size: 50px;
+    max-width: 350px;
+
+}
+#circle1 {
+    position: relative;
+    height: 300px;
+    width: 300px;
+    border-radius: 50cm;
+    background-color: white;
+    left: 25px;
+    max-height: 300px;
+}
+
+#image {
+    position: relative;
+    bottom: 363px;
+    left: 25.6px;
+}
+
+#rounded-rectangle {
+    position: relative;
+    height: 250px;
+    width: 600px;
+    background-color: #818c98;
+    bottom: 680px;
+    left: 395px;
+    border-radius: 20px;
+    padding: 10px;
+    max-height: 250px;
+}
+
+#aboutMe {
+    position: relative;
+    top: 10px;
+    left: 16px;
+    font-size: 30px;
+}
+
+#about {
+    position: relative;
+    top: 20px;
+    left: 16px;
+    font-size: 15px;
+    font-weight: lighter;
+    max-width: 550px;
+}
+
+#rounded-rectangle2 {
+    position:relative;
+    bottom: 930px;
+    height: 250px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #818c98;
+    left: 1095px;
+    max-height: 250px;
+}
+
+#contactMe {
+    position: relative;
+    top: 10px;
+    left: 15px;
+
+}
+
+.contacts {
+    position: relative;
+    left: 16px;
+    top: 16px;
+}
+
+#gmailContact {
+    position: relative;
+    top: 25px;
+    color: white;
+}
+
+#githubContact {
+    position: relative;
+    top: 50px;
+    color: white;
+}
+
+#phoneNumber {
+    position: relative;
+    top: 75px;
+    left: 16px;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #4369AB;
+}
+
+button:hover {
+    color: white;
+}
+
+#rectangle1 {
+    position: relative;
+    background-color: #542F9A;
+    width: 500px;
+    height: 75px;
+    bottom: 800px;
+    left: 100px;
+}
+
+#word1 {
+    position: relative;
+    left: 56px;
+    top: 14px;
+}
+
+
+
+#rounded-rectangle3 {
+    position:relative;
+    bottom: 730px;
+    left: 200px;
+    height: 550px;
+    width: 800px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #818c98;
+    max-height: 550px;
+}
+
+#ChallengeName {
+    position: relative;
+    background-color: #818c98;
+    padding: 10px;
+    bottom: 731.2px;
+    left: 390px;
+    max-width: 1000px;
+    border-top-right-radius: 20px;
+}
+
+#changeDate {
+    position: relative;
+    background-color: #818c98;
+    padding: 10px;
+    bottom: 731.2px;
+    left: 390px;
+    max-width: 1000px;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+#changeText {
+    position: relative;
+    background-color: #818c98;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 10px;
+    bottom: 731.2px;
+    left: 390px;
+    max-width: 1000px;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+#githubChallenge {
+    position: relative;
+    bottom: 736px;
+    left: 100px;
+    background-color: #818c98;
+    border-color: transparent;
+
+}
+
+#leadershipChallenge {
+    position: relative;
+    bottom: 736px;
+    left: 100px;
+    background-color: #818c98;
+    border-color: transparent;
+}
+
+#slackChallenge {
+    position: relative;
+    bottom: 736px;
+    left: 100px;
+    background-color: #818c98;
+    border-color: transparent;
+
+}
